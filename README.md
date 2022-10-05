@@ -5,8 +5,8 @@
 
 |Número de Proyecto|Nombre del proyecto|Permalink|
 |:----------------:|:-----------------:|:-------:|
-|    1    | Introducción - Entrada y salida |[Permalink]()|
-|    2    | Expresiones y operadores |[Permalink()|
+|    1    | Introducción - Entrada y salida |[Permalink](https://github.com/BlaeckHardt/C/blob/2d79b6a22f3e96a753be1c1e119657cc0f818139/C++/Entrada%20y%20Salida.cpp)|
+|    2    | Expresiones y operadores |[Permalink]()|
 |    3    | Condicionales |[Permalink]()|
 |    4    | Bucles o ciclos |[Permalink()|
 |    5    | Arreglos |[Permalink]()|
@@ -28,6 +28,7 @@
 |    21    | Analisis y eficiencia de algoritmos |[Permalink]()|
 |    22    | Algoritmos recursivos |[Permalink()|
 |    23    | Biblioteca estandar de plantillas (STL) |[Permalink]()|
+|    24    | Variable Aleatoria Bernoulli |[Permalink]()|
 
 
 ![Imamgem de um cheems promgramador trismte](https://mir-s3-cdn-cf.behance.net/projects/404/0bda10152995657.Y3JvcCw4NzMsNjgzLDEwMDMsOA.png)
