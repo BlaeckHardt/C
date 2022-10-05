@@ -1,5 +1,5 @@
 # C++
-## Proyectos desarrollados en C++ 
+## Proyectos desarrollados en C++ con ´Dev-C++´ 
 
 ## Los temas a desarrollar en este repositorio son los siguientes:
 
