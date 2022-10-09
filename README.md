@@ -30,9 +30,8 @@
 |    23    | Biblioteca estandar de plantillas (STL) |[Permalink]()|
 |    24    | Variable Aleatoria Bernoulli |[Permalink]()|
 
+<h3 align="center"><img src="https://mir-s3-cdn-cf.behance.net/projects/404/0bda10152995657.Y3JvcCw4NzMsNjgzLDEwMDMsOA.png" alt="python" width="400" height="400"/>
 
-![Imamgem de um cheems promgramador trismte](https://mir-s3-cdn-cf.behance.net/projects/404/0bda10152995657.Y3JvcCw4NzMsNjgzLDEwMDMsOA.png)
+Algunas ideas para el archivo [markdown](https://github.com/jfasebook/SoyInformatico/blob/master/README.md) (.md) y [extra](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-Algunas ideas para el archivo [markdown](https://github.com/jfasebook/SoyInformatico/blob/master/README.md) (.md)
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-
+</h3>
